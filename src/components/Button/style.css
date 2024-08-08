@@ -1,0 +1,23 @@
+.dark{
+  background-color: var(--dark);
+}
+.light{
+  background-color: var(--blue);
+}
+
+.small{
+  width:60% !important;
+}
+
+.btn{
+  color:white;
+  font-size: 25px;
+  padding:10px 0px;
+  width:100%;
+  border-radius: 10px;
+}
+.btn:hover{
+  cursor: pointer;
+  opacity: 0.9;
+  color:white;
+}

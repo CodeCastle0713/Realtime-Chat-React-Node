@@ -1,0 +1,75 @@
+.tab-header{
+  padding:0px 25px 30px;
+}
+
+.tab-text{
+  color: var(--dark);
+  padding:15px 20px;
+  font-size:11px;
+}
+.tab{
+  width:100%;
+  height:5px;
+  border-top-right-radius: 5px;
+  border-top-left-radius: 5px;
+  background-color: none;
+}
+.tab-text-clicked{
+  color: var(--lightblue);
+  padding:15px 20px;
+  font-size:11px;
+}
+.tab-clicked{
+  width:100%;
+  height:5px;
+  border-top-right-radius: 5px;
+  border-top-left-radius: 5px;
+  background-color: var(--lightblue);
+}
+.tab-2{
+  height:56px;
+  width:5px;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  background-color: none;
+}
+.tab-clicked2{
+  height:56px;
+  width:5px;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  background-color: var(--lightblue);
+}
+.tab-btn{
+  text-align: center;
+  cursor: pointer;
+}
+
+.tab-item{
+  cursor: pointer;
+  padding:5px 0px;
+}
+.tab-item-content{
+  padding:0px 0px 0px 25px;
+}
+.tab-item-message{
+  padding:0px 10px;
+}
+
+.tab-item-message div:nth-child(1){
+  color:var(--dark);
+  font-size:13px
+}
+.tab-item-message div:nth-child(2){
+  color:var(--grey);
+  font-size:11px
+}
+
+.tab-item-time{
+  color:var(--grey);
+  font-size:11px;
+}
+
+.tab-content{
+  width:100%;
+}

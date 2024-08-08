@@ -1,0 +1,27 @@
+.chat_wrapper{
+  padding:20px 40px;
+  
+}
+.chat_inner{
+  height:95vh;
+  border-radius: 20px;
+  box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.chat_wrapper span{
+  color:var(--dark);
+  font-size:13px;
+}
+
+.chat_wrapper input[type=text]{
+  width: 100%;
+  border:none !important;
+  box-sizing: border-box;
+  border-radius: 4px;
+  font-size: 16px;
+  background-color: white;
+  background-image: url('../../../public/assets/img/search_icon.png');
+  background-position: 10px 17px; 
+  background-repeat: no-repeat;
+  padding: 12px 20px 12px 40px;
+}

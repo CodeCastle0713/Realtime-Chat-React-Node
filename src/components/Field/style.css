@@ -1,0 +1,17 @@
+.col-75 {
+  float: left;
+  width: 100%;
+  margin-top: 6px;
+  margin-bottom:20px;
+}
+input{
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  resize: vertical;
+  font-size:20px;
+}
+.col-75 span{
+  color:var(--grey);
+}

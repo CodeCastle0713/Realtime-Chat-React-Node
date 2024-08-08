@@ -1,0 +1,52 @@
+.avatar{
+  width:50px;
+  height:50px;
+  border-radius: 100%;
+  border:2px solid var(--grey);
+}
+.activated{
+  position: relative;
+  bottom: 21px;
+  left: 39px;
+}
+.under-act{
+  width:9px;
+  height:9px;
+  border-radius: 100%;
+  background-color: #04E013;
+  position: relative;
+  bottom:13px;
+}
+.up-act{
+  width:15px;
+  height:15px;
+  border-radius: 100%;
+  background-color: #04E013;
+  opacity: 0.4;
+  position: relative;
+  top:-1px;
+  right:3px;
+}
+.off{
+  position: relative;
+  bottom: 21px;
+  left: 39px;
+}
+.under-off{
+  width:9px;
+  height:9px;
+  border-radius: 100%;
+  background-color: var(--grey);
+  position: relative;
+  bottom:13px;
+}
+.up-off{
+  width:15px;
+  height:15px;
+  border-radius: 100%;
+  background-color: var(--grey);
+  opacity: 0.4;
+  position: relative;
+  top:-1px;
+  right:3px;
+}

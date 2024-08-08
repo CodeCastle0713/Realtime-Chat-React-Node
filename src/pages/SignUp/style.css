@@ -1,0 +1,13 @@
+.left_img{
+  background-color: var(--blue);
+  background-image:url(../../../public/assets/img/CardBase1_Picture.png);
+  background-position: center;
+  background-repeat:no-repeat;
+  min-height:100vh;
+  display:flex;
+}
+
+h1{
+  color:var(--dark);
+  margin-bottom:56px;
+}

@@ -1,0 +1,6 @@
+.welcome_left{
+  flex-direction: column;
+}
+.welcome_left h1{
+  margin-bottom:30%;
+}

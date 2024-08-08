@@ -1,0 +1,16 @@
+.right_img{
+  background-image:url(../../../public/assets/img/CardBase2.png);
+  background-position: center;
+  background-size:cover;
+  background-repeat:no-repeat;
+  min-height:100vh;
+}
+
+h1{
+  color:var(--dark);
+  margin-bottom:56px;
+}
+
+Link{
+  text-decoration: none;
+}

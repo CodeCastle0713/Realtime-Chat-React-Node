@@ -1,0 +1,16 @@
+:root{
+  --dark:#2E384D;
+  --blue:#2E5BFF;
+  --grey:#8C98A9;
+  --lightblue:#8472FC;
+}
+
+* {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  box-sizing: border-box;
+  margin: 0;
+}
+
+h1{
+  font-size: 48px;
+}
